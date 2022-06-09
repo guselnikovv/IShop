@@ -1,0 +1,104 @@
+[2017-08-20 16:04:59] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-20 16:05:11] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-20 16:05:16] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-20 16:05:25] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-20 16:05:37] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-20 16:05:46] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-20 16:07:33] Текст ошибки: Страница не найдена!!! | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-20 16:08:53] Текст ошибки: Страница не найдена!!! | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-20 16:09:00] Текст ошибки: Страница не найдена!!! | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-20 16:09:04] Текст ошибки: Страница не найдена!!! | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-20 16:10:32] Текст ошибки: Страница не найдена!!! | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-20 16:10:37] Текст ошибки: Страница не найдена!!! | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-20 16:10:48] Текст ошибки: Страница не найдена!!! | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-21 10:41:17] Текст ошибки: Страница не найдена!!! | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-21 10:41:17] Текст ошибки: Страница не найдена!!! | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-21 10:41:17] Текст ошибки: Страница не найдена!!! | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-21 10:46:30] Текст ошибки: Страница не найдена!!! | Файл: D:\WebServer\domains\ishop2.loc\public\index.php | Строка: 8
+=================
+[2017-08-21 11:16:05] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 26
+=================
+[2017-08-21 11:16:31] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 26
+=================
+[2017-08-21 11:16:34] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 26
+=================
+[2017-08-21 11:30:20] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 30
+=================
+[2017-08-21 11:32:18] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 34
+=================
+[2017-08-21 11:32:20] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 34
+=================
+[2017-08-21 11:32:45] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 31
+=================
+[2017-08-21 11:33:21] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 34
+=================
+[2017-08-21 11:34:13] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 37
+=================
+[2017-08-21 12:29:54] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 37
+=================
+[2020-11-25 19:58:34] Текст ошибки: Call to undefined function app\controllers\setMeta() | Файл: C:\xampp\htdocs\fraemwork\app\controllers\MainController.php | Строка: 13
+=================
+[2020-11-25 20:00:15] Текст ошибки: syntax error, unexpected '$title' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) | Файл: C:\xampp\htdocs\fraemwork\app\controllers\MainController.php | Строка: 14
+=================
+[2020-11-25 20:00:32] Текст ошибки: syntax error, unexpected 'setMeta' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) | Файл: C:\xampp\htdocs\fraemwork\app\controllers\MainController.php | Строка: 15
+=================
+[2020-11-25 20:03:51] Текст ошибки: syntax error, unexpected 'getMeta' (T_STRING), expecting ';' or ',' | Файл: C:\xampp\htdocs\fraemwork\app\views\layouts\default.php | Строка: 8
+=================
+[2020-11-25 20:04:24] Текст ошибки: Call to undefined function getMeta() | Файл: C:\xampp\htdocs\fraemwork\app\views\layouts\default.php | Строка: 8
+=================
+[2020-11-25 20:04:45] Текст ошибки: syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST) | Файл: C:\xampp\htdocs\fraemwork\vendor\ishop\core\base\View.php | Строка: 52
+=================
+[2020-11-25 20:06:26] Текст ошибки: Class 'View' not found | Файл: C:\xampp\htdocs\fraemwork\app\views\layouts\default.php | Строка: 8
+=================
+[2020-11-25 20:50:38] Текст ошибки: syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) | Файл: C:\xampp\htdocs\fraemwork\app\controllers\MainController.php | Строка: 16
+=================
+[2020-11-25 20:52:38] Текст ошибки: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' | Файл: C:\xampp\htdocs\fraemwork\app\controllers\MainController.php | Строка: 15
+=================
+[2020-11-25 20:53:00] Текст ошибки: syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) | Файл: C:\xampp\htdocs\fraemwork\app\controllers\MainController.php | Строка: 16
+=================
+[2020-11-25 21:21:48] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: C:\xampp\htdocs\fraemwork\vendor\ishop\core\Router.php | Строка: 34
+=================
+[2020-11-25 21:24:06] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: C:\xampp\htdocs\fraemwork\vendor\ishop\core\Router.php | Строка: 34
+=================
+[2020-11-25 21:24:14] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: C:\xampp\htdocs\fraemwork\vendor\ishop\core\Router.php | Строка: 34
+=================
+[2020-11-26 06:57:47] Текст ошибки: Class 'app\controllers\AppModel' not found | Файл: D:\open\OpenServer\domains\localhost\fraemwork\app\controllers\AppController.php | Строка: 12
+=================
+[2020-11-26 07:04:00] Текст ошибки: Class 'ishop\base\Db' not found | Файл: D:\open\OpenServer\domains\localhost\fraemwork\vendor\ishop\core\base\Model.php | Строка: 13
+=================
+[2020-11-26 07:07:04] Текст ошибки: Class 'ishop\base\Db' not found | Файл: D:\open\OpenServer\domains\localhost\fraemwork\vendor\ishop\core\base\Model.php | Строка: 13
+=================
+[2020-11-26 07:07:32] Текст ошибки: Class 'ishop\base\Db' not found | Файл: D:\open\OpenServer\domains\localhost\fraemwork\vendor\ishop\core\base\Model.php | Строка: 14
+=================
+[2020-11-26 07:08:04] Текст ошибки: Class 'R' not found | Файл: D:\open\OpenServer\domains\localhost\fraemwork\vendor\ishop\core\Db.php | Строка: 15
+=================
+[2020-11-26 07:09:05] Текст ошибки: Class 'ishop\R' not found | Файл: D:\open\OpenServer\domains\localhost\fraemwork\vendor\ishop\core\Db.php | Строка: 15
+=================
+[2020-11-26 08:20:16] Текст ошибки: Нет соединения с бд | Файл: D:\open\OpenServer\domains\localhost\fraemwork\vendor\ishop\core\Db.php | Строка: 17
+=================
+[2020-11-26 08:25:07] Текст ошибки: syntax error, unexpected '$posts' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) | Файл: D:\open\OpenServer\domains\localhost\fraemwork\app\controllers\MainController.php | Строка: 7
+=================
+[2020-11-26 08:25:21] Текст ошибки: syntax error, unexpected '$posts' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) | Файл: D:\open\OpenServer\domains\localhost\fraemwork\app\controllers\MainController.php | Строка: 7
+=================
+[2020-11-26 08:30:23] Текст ошибки: syntax error, unexpected '"</p>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' | Файл: D:\open\OpenServer\domains\localhost\fraemwork\app\views\Main\index.php | Строка: 8
+=================
+[2020-11-26 09:43:37] Текст ошибки: Class 'app\controllers\Cache' not found | Файл: D:\open\OpenServer\domains\localhost\fraemwork\app\controllers\MainController.php | Строка: 19
+=================
+[2020-11-26 09:44:23] Текст ошибки: syntax error, unexpected 'CACHE' (T_STRING) | Файл: D:\open\OpenServer\domains\localhost\fraemwork\vendor\ishop\core\Cache.php | Строка: 21
+=================
